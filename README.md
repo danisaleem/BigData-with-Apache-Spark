@@ -1,12 +1,10 @@
-# Apache-Spark-Project
-Big Data University Semester Project 
+# Makiing Predictions using Covid-19 DataSet with Apache-Spark
 
 ## Overall, the project include the following steps:
 1. Import your dataset to Spark.
-2. Preprocess the data
-3. Perform some meaningful analysis (e.g., using machine learning methods). It is also part of this task to get acquainted with subjects that were not covered in the lecture or that you are not familiar with.
+2. Preprocess the DataSet
+3. Make a machine learning model and perform prediction for future dates.
 4. Present/visualize the results.
-5. Describe the approach.
 
 ## Contributors
 - Faizan Khan (https://github.com/faizankhann)
