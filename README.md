@@ -1,4 +1,4 @@
-# Makiing Predictions using Covid-19 DataSet with Apache-Spark
+# Making Predictions using Covid-19 DataSet with Apache-Spark
 
 ## Overall, the project include the following steps:
 1. Import your dataset to Spark.
